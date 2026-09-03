@@ -1,130 +1,180 @@
-# 👋 Hey, I'm Amarjeet Sah
+<!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+Enthusiast+%F0%9F%93%8A;Machine+Learning+Learner+%F0%9F%A4%96;Python+Developer+%F0%9F%90%8D;Future+Data+Scientist+%F0%9F%9A%80" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&section=header&text=AMARJEET%20SAH&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=DATA%20SCIENTIST&descSize=24&descAlignY=58&descColor=00BFFF&animation=twinkling&color=0:000000,40:001B3A,70:003B73,100:007BFF" width="100%"/>
+</p>
+
+<!-- ======================= TYPING ======================= -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Python+%7C+Data+Science+%7C+Machine+Learning;Turning+Data+Into+Insights+%F0%9F%93%8A;Building+AI+%26+ML+Projects+%F0%9F%A4%96;Learning+Something+New+Every+Day+%F0%9F%9A%80" />
 </p>
 
 <p align="center">
   <a href="https://github.com/sahamarjeet8826-stack">
-    <img src="https://img.shields.io/github/followers/sahamarjeet8826-stack?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF"/>
   </a>
-  <a href="https://github.com/sahamarjeet8826-stack?tab=repositories">
-    <img src="https://img.shields.io/github/stars/sahamarjeet8826-stack?label=Stars&style=for-the-badge" />
-  </a>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Data%20Science-000000?style=for-the-badge&logo=databricks&logoColor=00BFFF"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge&logo=scikitlearn&logoColor=00BFFF"/>
 </p>
 
 ---
 
-## 🧠 About Me
+# 👨‍💻 About Me
 
 ```python
 class Amarjeet:
 
-    def __init__(self):
-        self.name = "Amarjeet Sah"
-        self.role = "Data Science Enthusiast"
-        self.goal = "Become a Data Scientist"
+    name = "Amarjeet Sah"
+    role = "Data Scientist"
+    
+    skills = [
+        "Python",
+        "SQL",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "Scikit-learn"
+    ]
 
-        self.languages = [
-            "Python",
-            "SQL"
-        ]
+    interests = [
+        "Data Science",
+        "Machine Learning",
+        "Artificial Intelligence",
+        "Data Analysis",
+        "Generative AI"
+    ]
 
-        self.interests = [
-            "Data Science",
-            "Machine Learning",
-            "Artificial Intelligence",
-            "Data Analysis",
-            "Generative AI"
-        ]
+    currently_learning = [
+        "Statistics",
+        "Machine Learning",
+        "Deep Learning",
+        "Advanced SQL"
+    ]
 
-        self.currently_learning = [
-            "Statistics",
-            "Machine Learning",
-            "Data Visualization",
-            "SQL",
-            "Deep Learning"
-        ]
-
-    def say_hi(self):
-        print("Thanks for visiting my profile! 🚀")
+    goal = "Build intelligent solutions with data 🚀"
 
 
 me = Amarjeet()
-me.say_hi()
+
+print("Hello World! 👋")
+print("Welcome to my GitHub!")
 ```
 
 ---
 
-## 🛠️ Tech Stack
+# 🧠 Data Science Journey
 
-### 🐍 Programming
+<p align="center">
 
-<p>
+```text
+🐍 Python
+      ↓
+🔢 NumPy
+      ↓
+🐼 Pandas
+      ↓
+📊 Data Analysis
+      ↓
+📐 Statistics
+      ↓
+📈 Data Visualization
+      ↓
+🤖 Machine Learning
+      ↓
+🧠 Deep Learning
+      ↓
+⚡ Artificial Intelligence
+      ↓
+🚀 DATA SCIENTIST
+```
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+### 💻 Programming
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql" />
 </p>
 
-### 📊 Data Science & Analytics
+### 📊 Data Science
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib" />
 </p>
 
 ### 🤖 Machine Learning
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=sklearn" />
 </p>
 
-**Currently working with:**
-
-`Linear Regression` • `Logistic Regression` • `KNN` • `SVM` • `Decision Tree` • `Random Forest` • `K-Means`
-
 ### ⚙️ Tools
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
 ---
 
-## 📚 My Data Science Journey
+# 🤖 Machine Learning
+
+### Supervised Learning
 
 ```text
-                    ┌─────────────┐
-                    │   Python 🐍 │
-                    └──────┬──────┘
-                           ↓
-                 ┌──────────────────┐
-                 │ NumPy + Pandas   │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │  Data Analysis   │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ Statistics 📐    │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ Visualization 📊 │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ Machine Learning │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ Deep Learning 🧠 │
-                 └────────┬─────────┘
-                          ↓
-                 ┌──────────────────┐
-                 │ Artificial AI 🤖 │
-                 └────────┬─────────┘
-                          ↓
-                  🚀 DATA SCIENTIST
+Regression
+│
+├── Linear Regression
+└── Polynomial Regression
+
+Classification
+│
+├── Logistic Regression
+├── KNN
+├── SVM
+├── Decision Tree
+├── Random Forest
+└── Naive Bayes
 ```
+
+### Unsupervised Learning
+
+```text
+Clustering
+│
+└── K-Means
+```
+
+---
+
+# 📊 Data Preprocessing
+
+Currently practicing:
+
+| Technique             | Status |
+| --------------------- | ------ |
+| Missing Values        | ✅      |
+| Outlier Detection     | ✅      |
+| Z-Score               | ✅      |
+| IQR                   | ✅      |
+| StandardScaler        | ✅      |
+| MinMaxScaler          | ✅      |
+| RobustScaler          | ✅      |
+| MaxAbsScaler          | ✅      |
+| Normalizer            | ✅      |
+| Label Encoding        | ✅      |
+| One-Hot Encoding      | ✅      |
+| Ordinal Encoding      | ✅      |
+| Log Transformation    | ✅      |
+| Power Transformation  | ✅      |
+| Binning               | ✅      |
+| Distribution Analysis | ✅      |
+| Correlation Analysis  | ✅      |
 
 ---
 
@@ -132,9 +182,9 @@ me.say_hi()
 
 ## 🎬 AI Video Auto Editor
 
-> AI-powered desktop application for automatically creating and editing videos.
+> An AI-powered desktop application that automatically creates and edits videos.
 
-### Features
+### ✨ Features
 
 * 🎙️ Speech-to-text using WhisperX
 * 🎞️ Automatic video timeline generation
@@ -144,62 +194,71 @@ me.say_hi()
 * 🔄 Crossfade transitions
 * 📤 Automated video exporting
 
-### Built With
+### 🔧 Built With
 
-`Python` `PySide6` `WhisperX` `MoviePy` `FFmpeg` `Torch`
+```text
+Python
+PySide6
+WhisperX
+MoviePy
+FFmpeg
+Torch
+```
 
 ---
 
 ## 📊 Data Preprocessing
 
-> A practical collection of Data Preprocessing and Machine Learning techniques.
+> A practical collection of Data Science and Machine Learning preprocessing techniques.
 
-### Topics
-
-* Missing Value Handling
-* Outlier Detection
-* Z-Score
-* IQR
-* Feature Scaling
-* StandardScaler
-* MinMaxScaler
-* RobustScaler
-* MaxAbsScaler
-* Normalizer
-* Label Encoding
-* One-Hot Encoding
-* Ordinal Encoding
-* Log Transformation
-* Power Transformation
-* Binning
-* Distribution Analysis
-* Correlation Analysis
+```text
+Missing Values
+      ↓
+Outlier Detection
+      ↓
+Feature Scaling
+      ↓
+Encoding
+      ↓
+Transformation
+      ↓
+Feature Analysis
+      ↓
+Machine Learning
+```
 
 ---
 
-# 🧠 Machine Learning Knowledge
+# 📚 Currently Learning
 
-```text
-Supervised Learning
-│
-├── Regression
-│   ├── Linear Regression
-│   └── Polynomial Regression
-│
-└── Classification
-    ├── Logistic Regression
-    ├── KNN
-    ├── SVM
-    ├── Decision Tree
-    ├── Random Forest
-    └── Naive Bayes
-
-
-Unsupervised Learning
-│
-└── Clustering
-    └── K-Means
+```python
+learning = {
+    "🐍 Python": "Improving",
+    "📊 Data Analysis": "Practicing",
+    "📐 Statistics": "Learning",
+    "🗄️ SQL": "Practicing",
+    "🤖 Machine Learning": "Building Projects",
+    "🧠 Deep Learning": "Exploring",
+    "⚡ Generative AI": "Exploring"
+}
 ```
+
+---
+
+# 🎯 2026 Goals
+
+* [x] Python
+* [x] NumPy
+* [x] Pandas
+* [x] Data Visualization
+* [x] Machine Learning Basics
+* [x] Data Preprocessing
+* [ ] Advanced Statistics
+* [ ] Advanced SQL
+* [ ] Deep Learning
+* [ ] Build 10+ ML Projects
+* [ ] Build Real-World AI Projects
+* [ ] Become a Professional Data Scientist 🚀
 
 ---
 
@@ -207,9 +266,9 @@ Unsupervised Learning
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sahamarjeet8826-stack&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sahamarjeet8826-stack&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00BFFF&icon_color=00BFFF&text_color=FFFFFF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahamarjeet8826-stack&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahamarjeet8826-stack&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=00BFFF&text_color=FFFFFF" width="42%"/>
 
 </p>
 
@@ -219,55 +278,9 @@ Unsupervised Learning
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sahamarjeet8826-stack&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=sahamarjeet8826-stack&theme=black-ice&hide_border=true&background=000000&ring=00BFFF&fire=00BFFF&currStreakLabel=00BFFF" width="70%"/>
 
 </p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-</p>
-
----
-
-# 📊 What I'm Working On
-
-```python
-goals = {
-    "📊 Data Analysis": "Improving",
-    "🐍 Python": "Advanced",
-    "🧠 Statistics": "Learning",
-    "🤖 Machine Learning": "Building Projects",
-    "🧬 Deep Learning": "Exploring",
-    "🤖 Generative AI": "Exploring",
-    "🗄️ SQL": "Practicing",
-    "🚀 Data Science": "Becoming Job Ready"
-}
-
-for skill, status in goals.items():
-    print(f"{skill} → {status}")
-```
-
----
-
-# 🎯 2026 Goals
-
-* [x] Learn Python fundamentals
-* [x] Learn NumPy
-* [x] Learn Pandas
-* [x] Learn Data Visualization
-* [x] Learn basic Machine Learning
-* [ ] Master Statistics
-* [ ] Build 10+ Machine Learning Projects
-* [ ] Learn Deep Learning
-* [ ] Learn Advanced SQL
-* [ ] Build Real-World AI Projects
-* [ ] Become a Data Scientist 🚀
 
 ---
 
@@ -275,13 +288,27 @@ for skill, status in goals.items():
 
 <p align="center">
 
-### **"Don't just learn technology. Build with it."**
+### **"Learn. Build. Break. Fix. Repeat."**
 
 </p>
 
+<p align="center">
+
 ```text
-Learn → Practice → Build → Fail → Improve → Repeat 🔁
+           LEARN
+             ↓
+          PRACTICE
+             ↓
+           BUILD
+             ↓
+           FAIL
+             ↓
+          IMPROVE
+             ↓
+           REPEAT 🔁
 ```
+
+</p>
 
 ---
 
@@ -290,7 +317,7 @@ Learn → Practice → Build → Fail → Improve → Repeat 🔁
 <p align="center">
 
 <a href="https://github.com/sahamarjeet8826-stack">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00BFFF"/>
 </a>
 
 </p>
@@ -298,17 +325,13 @@ Learn → Practice → Build → Fail → Improve → Repeat 🔁
 ---
 
 <p align="center">
-
-### ⭐ If you like my work, consider starring my repositories!
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=twinkling&color=0:007BFF,50:003B73,100:000000"/>
 </p>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+### 🐍 Python • 📊 Data • 🤖 AI • 🧠 Machine Learning
 
-</p>
+**Building the future, one dataset at a time. 🚀**
 
-<p align="center">
-  <i>Made with 🐍 Python • 📊 Data • 🤖 AI • 🧠 Curiosity</i>
 </p>
