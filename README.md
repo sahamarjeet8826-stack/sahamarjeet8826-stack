@@ -22,45 +22,7 @@
 ---
 
 # 👨‍💻 About Me
-
-```python
-class Amarjeet:
-
-    name = "Amarjeet Sah"
-    role = "Data Scientist"
-    
-    skills = [
-        "Python",
-        "SQL",
-        "Pandas",
-        "NumPy",
-        "Matplotlib",
-        "Scikit-learn"
-    ]
-
-    interests = [
-        "Data Science",
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Data Analysis",
-        "Generative AI"
-    ]
-
-    currently_learning = [
-        "Statistics",
-        "Machine Learning",
-        "Deep Learning",
-        "Advanced SQL"
-    ]
-
-    goal = "Build intelligent solutions with data 🚀"
-
-
-me = Amarjeet()
-
-print("Hello World! 👋")
-print("Welcome to my GitHub!")
-```
+Hello My Name is Amarjeet Sah I am a new amature Data Scientist.
 
 ---
 
